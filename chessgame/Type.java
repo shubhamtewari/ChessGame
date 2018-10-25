@@ -6,5 +6,5 @@ package chessgame.src;
  */
  enum Type {
    //type chess pieces
-   KING, QUEEN, ROOK, KNIGHT, PAWN, BISHOP; 
+   PLACABLE, KING, QUEEN, ROOK, KNIGHT, PAWN, BISHOP; 
  }
